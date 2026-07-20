@@ -4,12 +4,14 @@
 
 ### Where I've been
 
-- **FuriosaAI** — Solution Architect (2026–now) · customer solutions for AI accelerators, infra automation for large-scale server deployments
-- **Microsoft** — Solution Engineer Intern (2026) · RAG-based patent-analysis PoC for SK Chemicals, lightning talk at Microsoft AI Tour Seoul
-- **Amazon Web Services** — Cloud Support Engineer Intern (2025) · built LogLift (GenAI S3-log analysis with Bedrock), AWS re:Post author
-- **Samsung Medison** — AI & SW Engineer Intern (2025) · ultrasound view-setting AI module in C++/Python, 1.5× faster inference
-- **LG Discovery Lab** — AI Instructor & Mentor (2024) · hands-on AI workshops in a nationwide 50,000+ participant program
-- **CareMinder** — Co-Founder & App Developer (2024) · AI voice-routing platform live in 5 hospitals, 200+ endpoints
+| When  | Where               | Role                        | What I did                                          |
+|:------|:--------------------|:----------------------------|:----------------------------------------------------|
+| 2026– | **FuriosaAI**        | Solution Architect          | Customer solutions for AI accelerators              |
+| 2026  | **Microsoft**        | Solution Engineer Intern    | RAG patent-analysis PoC · spoke at AI Tour Seoul    |
+| 2025  | **AWS**              | Cloud Support Engineer Intern | Built LogLift (GenAI log analysis) · re:Post author |
+| 2025  | **Samsung Medison**  | AI & SW Engineer Intern     | Ultrasound AI module in C++/Python                  |
+| 2024  | **LG Discovery Lab** | AI Instructor & Mentor      | AI workshops in a nationwide 50k+ program           |
+| 2024  | **CareMinder**       | Co-Founder & App Developer  | Voice platform live in 5 hospitals                  |
 
 Also a contributor to [Pyodide](https://github.com/pyodide/pyodide) (OSS Contribution Academy, Special Award).
 
