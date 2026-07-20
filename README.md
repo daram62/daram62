@@ -4,14 +4,23 @@
 
 ### Where I've been
 
-| When  | Where               | Role                        | What I did                                          |
-|:------|:--------------------|:----------------------------|:----------------------------------------------------|
-| 2026– | **FuriosaAI**        | Solution Architect          | Customer solutions for AI accelerators              |
-| 2026  | **Microsoft**        | Solution Engineer Intern    | RAG patent-analysis PoC · spoke at AI Tour Seoul    |
-| 2025  | **AWS**              | Cloud Support Engineer Intern | Built LogLift (GenAI log analysis) · re:Post author |
-| 2025  | **Samsung Medison**  | AI & SW Engineer Intern     | Ultrasound AI module in C++/Python                  |
-| 2024  | **LG Discovery Lab** | AI Instructor & Mentor      | AI workshops in a nationwide 50k+ program           |
-| 2024  | **CareMinder**       | Co-Founder & App Developer  | Voice platform live in 5 hospitals                  |
+**FuriosaAI** · Solution Architect (2026–now)<br>
+<sub>Customer solutions for AI accelerators, infra automation for large-scale deployments</sub>
+
+**Microsoft** · Solution Engineer Intern (2026)<br>
+<sub>RAG patent-analysis PoC for SK Chemicals · lightning talk at Microsoft AI Tour Seoul</sub>
+
+**Amazon Web Services** · Cloud Support Engineer Intern (2025)<br>
+<sub>Built LogLift, a GenAI S3-log analysis tool · AWS re:Post author</sub>
+
+**Samsung Medison** · AI & SW Engineer Intern (2025)<br>
+<sub>Ultrasound view-setting AI module in C++/Python · 1.5× faster inference</sub>
+
+**LG Discovery Lab** · AI Instructor & Mentor (2024)<br>
+<sub>Hands-on AI workshops in a nationwide 50,000+ participant program</sub>
+
+**CareMinder** · Co-Founder & App Developer (2024)<br>
+<sub>AI voice-routing platform live in 5 hospitals, 200+ endpoints</sub>
 
 Also a contributor to [Pyodide](https://github.com/pyodide/pyodide) (OSS Contribution Academy, Special Award).
 
