@@ -1,6 +1,6 @@
 ## Hi, I'm Minseo Kim (Ludy) 👋
 
-**Solution Architect @ [FuriosaAI](https://furiosa.ai)** — getting customers' AI workloads to actually run on accelerators. The fun part: you never know whether the next problem lives in the model or somewhere down in the infrastructure.
+**Solution Architect @ [FuriosaAI](https://furiosa.ai)** — getting customers' AI workloads to actually run on accelerators.
 
 ### Where I've been
 
