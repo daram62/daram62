@@ -2,31 +2,9 @@
 
 **Solution Architect @[FuriosaAI](https://furiosa.ai)** - getting customers' AI workloads to actually run on accelerators.
 
-### Where I've been
+Before: Microsoft · AWS · Samsung Medison · co-founded CareMinder · [Pyodide](https://github.com/pyodide/pyodide) contributor
 
-**FuriosaAI** · Solution Architect (2026–now)<br>
-<small>Customer solutions for AI accelerators, infra automation for large-scale deployments</small>
-
-**Microsoft** · Solution Engineer Intern (2026)<br>
-<small>RAG patent-analysis PoC for SK Chemicals · lightning talk at Microsoft AI Tour Seoul</small>
-
-**Amazon Web Services** · Cloud Support Engineer Intern (2025)<br>
-<small>Built LogLift, a GenAI S3-log analysis tool · AWS re:Post author</small>
-
-**Samsung Medison** · AI & SW Engineer Intern (2025)<br>
-<small>Ultrasound view-setting AI module in C++/Python · 1.5× faster inference</small>
-
-**LG Discovery Lab** · AI Instructor & Mentor (2024)<br>
-<small>Hands-on AI workshops in a nationwide 50,000+ participant program</small>
-
-**CareMinder** · Co-Founder & App Developer (2024)<br>
-<small>AI voice-routing platform live in 5 hospitals, 200+ endpoints</small>
-
-Also a contributor to [Pyodide](https://github.com/pyodide/pyodide) (OSS Contribution Academy, Special Award).
-
-🔗 [portfolio-minseo.vercel.app](https://portfolio-minseo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/minseo-ludia/) · ludia0602@gmail.com
-
-### Tech I reach for
+🔗 Full story → [portfolio-minseo.vercel.app](https://portfolio-minseo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/minseo-ludia/) · ludia0602@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -34,13 +12,6 @@ Also a contributor to [Pyodide](https://github.com/pyodide/pyodide) (OSS Contrib
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=icloud&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### Stats
 
 <!-- The canonical github-readme-stats.vercel.app instance is paused (2026-07);
      using a public mirror. If cards break, self-hosting on Vercel is the fix. -->
