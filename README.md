@@ -45,6 +45,6 @@ Also a contributor to [Pyodide](https://github.com/pyodide/pyodide) (OSS Contrib
 <!-- The canonical github-readme-stats.vercel.app instance is paused (2026-07);
      using a public mirror. If cards break, self-hosting on Vercel is the fix. -->
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=daram62&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daram62&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=heyludy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heyludy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
 </p>
