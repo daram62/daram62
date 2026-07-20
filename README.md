@@ -2,7 +2,16 @@
 
 **Solution Architect @[FuriosaAI](https://furiosa.ai)** - getting customers' AI workloads to actually run on accelerators.
 
-Before: Microsoft · AWS · Samsung Medison · co-founded CareMinder · [Pyodide](https://github.com/pyodide/pyodide) contributor
+### Where I've been
+
+- `2026–` **FuriosaAI** · Solution Architect
+- `2026` Microsoft · Solution Engineer Intern
+- `2025` Amazon Web Services · Cloud Support Engineer Intern
+- `2025` Samsung Medison · AI & SW Engineer Intern
+- `2024` LG Discovery Lab · AI Instructor & Mentor
+- `2024` CareMinder · Co-Founder & App Developer
+
+Also a contributor to [Pyodide](https://github.com/pyodide/pyodide).
 
 🔗 Full story → [portfolio-minseo.vercel.app](https://portfolio-minseo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/minseo-ludia/) · ludia0602@gmail.com
 
