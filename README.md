@@ -10,12 +10,12 @@
 - `Jan–Mar 2026` Microsoft · Solution Engineer Intern
 - `Jun–Dec 2025` Amazon Web Services · Cloud Support Engineer Intern
 - `Jan–Jun 2025` Samsung Medison · AI & SW Engineer Intern
-- `Sep–Dec 2024` LG Discovery Lab · AI Instructor & Mentor
+- `Aug–Dec 2024` LG Discovery Lab · AI Instructor & Mentor
 - `Feb–Dec 2024` CareMinder · Co-Founder & App Developer
 
 Also a contributor to [Pyodide](https://github.com/pyodide/pyodide).
 
-🔗 [portfolio](https://portfolio-minseo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/minseo-ludia/) · ludia0602@gmail.com
+🔗 [portfolio](https://portfolio-minseo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/minseo-ludy/) · ludia0602@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
