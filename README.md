@@ -31,7 +31,6 @@
      deprecated and its Vercel app is paused. -->
 <p>
   <img src="https://raw.githubusercontent.com/heyludy/heyludy/output/stats.svg" alt="GitHub stats" height="160" />
-  <img src="https://raw.githubusercontent.com/heyludy/heyludy/output/top-langs.svg" alt="Top languages" height="160" />
 </p>
 
 <!-- All cards above and below regenerated daily by .github/workflows/readme-cards.yml -->

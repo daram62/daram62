@@ -32,16 +32,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          # exclude_repo drops class assignments and scratch repos: they are
-          # byte-count noise, not work worth ranking languages by.
-          options: username=heyludy&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=SWE_2021_41_2024_2_week2,SWE_2021_41_2024_2_week_4,SWE_2021_41_2024_2_week_7,SWE_2021_41_2024_2_week_9,SWE_2021_41_2024_2_week_10,24-2-Courses,Obsidian,Comedunion
-          path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
       - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
