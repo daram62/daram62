@@ -24,6 +24,13 @@
 - [AWS re:Post](https://repost.aws/articles/ARNBH4SaZDQQ2gBzTmkqOA_Q/configuring-cross-region-disaster-recovery-for-amazon-eks-with-aws-backup) — cross-region disaster recovery for Amazon EKS with AWS Backup
 - Google Developer Groups on Campus SKKU — tech lead: 200+ members, 8 speaker sessions, co-hosted the REALTHON AI hackathon
 
+### Awards
+
+- `2025` 2nd place, SKKU AI Hackathon — [DrawMind](https://github.com/heyludy/DrawMind)
+- `2024` 1st place, AIM Challenge — Minister of Education Award
+- `2024` 2nd place, kakao × goorm Hackathon
+- `2024` Excellence Award, Capstone Design & AI Hackathon
+
 🔗 [portfolio](https://portfolio-minseo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/minseo-ludy/) · ludia0602@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
