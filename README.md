@@ -24,14 +24,14 @@ Also a contributor to [Pyodide](https://github.com/pyodide/pyodide).
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=icloud&logoColor=white)
 
-<!-- The canonical github-readme-stats.vercel.app instance is paused (2026-07);
-     using a public mirror. If cards break, self-hosting on Vercel is the fix. -->
+<!-- Rendered in CI, not by a hosted instance: upstream github-readme-stats is
+     deprecated and its Vercel app is paused. -->
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=heyludy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heyludy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://raw.githubusercontent.com/heyludy/heyludy/output/stats.svg" alt="GitHub stats" height="160" />
+  <img src="https://raw.githubusercontent.com/heyludy/heyludy/output/top-langs.svg" alt="Top languages" height="160" />
 </p>
 
-<!-- Regenerated daily by .github/workflows/snake.yml (Platane/snk) -->
+<!-- All cards above and below regenerated daily by .github/workflows/readme-cards.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyludy/heyludy/output/github-contribution-grid-snake-dark.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/heyludy/heyludy/output/github-contribution-grid-snake.svg" />
