@@ -18,6 +18,12 @@
 - [furiosa-ai/server-setup-ansible](https://github.com/furiosa-ai/server-setup-ansible) — NPU server deployment: SDK 2026.3.0 support, macOS control node, host_info fixes
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) — dropped a stale CPython zoneinfo patch, macOS build docs
 
+### Speaking & writing
+
+- [Microsoft AI Tour Seoul 2026](https://aitour.microsoft.com/flow/microsoft/seoul26/sessioncatalog/page/sessioncatalog/session/1764036400920001EsDs) — lightning talk on scoping an AI agent and building the business case for it
+- [AWS re:Post](https://repost.aws/articles/ARNBH4SaZDQQ2gBzTmkqOA_Q/configuring-cross-region-disaster-recovery-for-amazon-eks-with-aws-backup) — cross-region disaster recovery for Amazon EKS with AWS Backup
+- Google Developer Groups on Campus SKKU — tech lead: 200+ members, 8 speaker sessions, co-hosted the REALTHON AI hackathon
+
 🔗 [portfolio](https://portfolio-minseo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/minseo-ludy/) · ludia0602@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -31,6 +37,10 @@
      deprecated and its Vercel app is paused. -->
 <p>
   <img src="https://raw.githubusercontent.com/heyludy/heyludy/output/stats.svg" alt="GitHub stats" height="160" />
+</p>
+<p>
+  <a href="https://github.com/furiosa-ai/server-setup-ansible"><img src="https://raw.githubusercontent.com/heyludy/heyludy/output/pin-server-setup-ansible.svg" alt="furiosa-ai/server-setup-ansible" height="120" /></a>
+  <a href="https://github.com/heyludy/DrawMind"><img src="https://raw.githubusercontent.com/heyludy/heyludy/output/pin-drawmind.svg" alt="DrawMind" height="120" /></a>
 </p>
 
 <!-- All cards above and below regenerated daily by .github/workflows/readme-cards.yml -->
