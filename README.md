@@ -15,21 +15,21 @@
 
 ### Open source
 
-- [furiosa-ai/server-setup-ansible](https://github.com/furiosa-ai/server-setup-ansible) — NPU server deployment: SDK 2026.3.0 support, macOS control node, host_info fixes
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) — dropped a stale CPython zoneinfo patch, macOS build docs
+- [furiosa-ai/server-setup-ansible](https://github.com/furiosa-ai/server-setup-ansible) - NPU server deployment: SDK 2026.3.0 support, macOS control node, host_info fixes
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - dropped a stale CPython zoneinfo patch, macOS build docs
 
 ### Speaking & writing
 
-- [Microsoft AI Tour Seoul 2026](https://aitour.microsoft.com/flow/microsoft/seoul26/sessioncatalog/page/sessioncatalog/session/1764036400920001EsDs) — lightning talk on scoping an AI agent and building the business case for it
-- [AWS re:Post](https://repost.aws/articles/ARNBH4SaZDQQ2gBzTmkqOA_Q/configuring-cross-region-disaster-recovery-for-amazon-eks-with-aws-backup) — cross-region disaster recovery for Amazon EKS with AWS Backup
-- [Google Developer Groups on Campus SKKU](https://gdg.community.dev/gdg-on-campus-sungkyunkwan-university-seoul-south-korea/) — tech lead: 200+ members, 8 speaker sessions, co-hosted the REALTHON AI hackathon
+- [Microsoft AI Tour Seoul 2026](https://aitour.microsoft.com/flow/microsoft/seoul26/sessioncatalog/page/sessioncatalog/session/1764036400920001EsDs) - lightning talk on scoping an AI agent and building the business case for it
+- [AWS re:Post](https://repost.aws/articles/ARNBH4SaZDQQ2gBzTmkqOA_Q/configuring-cross-region-disaster-recovery-for-amazon-eks-with-aws-backup) - cross-region disaster recovery for Amazon EKS with AWS Backup
+- [Google Developer Groups on Campus SKKU](https://gdg.community.dev/gdg-on-campus-sungkyunkwan-university-seoul-south-korea/) - tech lead: 200+ members, 8 speaker sessions, co-hosted the REALTHON AI hackathon
 
 ### Awards
 
-- `2025` 2nd place, SKKU AI Hackathon — [DrawMind](https://github.com/heyludy/DrawMind)
-- `2024` 1st place, AIM Challenge — Minister of Education Award
-- `2024` 2nd place, kakao × goorm Hackathon
-- `2024` Excellence Award, Capstone Design & AI Hackathon
+- `2025` 2nd place, SKKU AI Hackathon - [DrawMind](https://github.com/heyludy/DrawMind)
+- `2024` 1st place, AIM Challenge (Minister of Education Award) - [news](https://www.newsis.com/view/NISX20241129_0002977814)
+- `2024` 2nd place, kakao × goorm Hackathon - [Ivory](https://github.com/heyludy/Ivory-care-FE)
+- `2024` Excellence Award, Capstone Design & AI Hackathon - [Traffic Police](https://github.com/heyludy/Gangchon_Hackathon)
 
 🔗 [portfolio](https://portfolio-minseo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/minseo-ludy/) · ludia0602@gmail.com
 
