@@ -13,7 +13,10 @@
 - `Aug–Dec 2024` LG Discovery Lab · AI Instructor & Mentor
 - `Feb–Dec 2024` CareMinder · Co-Founder & App Developer
 
-Also a contributor to [Pyodide](https://github.com/pyodide/pyodide).
+### Open source
+
+- [furiosa-ai/server-setup-ansible](https://github.com/furiosa-ai/server-setup-ansible) — NPU server deployment: SDK 2026.3.0 support, macOS control node, host_info fixes
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) — dropped a stale CPython zoneinfo patch, macOS build docs
 
 🔗 [portfolio](https://portfolio-minseo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/minseo-ludy/) · ludia0602@gmail.com
 
