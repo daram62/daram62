@@ -6,12 +6,12 @@
 
 ### Where I've been
 
-- `2026–now` **FuriosaAI** · Solution Architect
-- `Jan–Mar 2026` Microsoft · Solution Engineer Intern
-- `Jun–Dec 2025` Amazon Web Services · Cloud Support Engineer Intern
-- `Jan–Jun 2025` Samsung Medison · AI & SW Engineer Intern
-- `Aug–Dec 2024` LG Discovery Lab · AI Instructor & Mentor
-- `Feb–Dec 2024` CareMinder · Co-Founder & App Developer
+- `2026-now` **FuriosaAI** · Solution Architect
+- `Jan-Mar 2026` Microsoft · Solution Engineer Intern
+- `Jun-Dec 2025` Amazon Web Services · Cloud Support Engineer Intern
+- `Jan-Jun 2025` Samsung Medison · AI & SW Engineer Intern
+- `Aug-Dec 2024` LG Discovery Lab · AI Instructor & Mentor
+- `Feb-Dec 2024` CareMinder · Co-Founder & App Developer
 
 ### Open source
 
@@ -27,7 +27,7 @@
 ### Awards
 
 - `2025` 2nd place, SKKU AI Hackathon - [DrawMind](https://github.com/heyludy/DrawMind)
-- `2024` 1st place, AIM Challenge (Minister of Education Award) - [news](https://www.newsis.com/view/NISX20241129_0002977814)
+- `2024` 1st place, AIM Challenge (Minister of Education Award) - [Article](https://www.newsis.com/view/NISX20241129_0002977814)
 - `2024` 2nd place, kakao × goorm Hackathon - [Ivory](https://github.com/heyludy/Ivory-care-FE)
 - `2024` Excellence Award, Capstone Design & AI Hackathon - [Traffic Police](https://github.com/heyludy/Gangchon_Hackathon)
 
