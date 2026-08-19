@@ -32,22 +32,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=furiosa-ai&repo=server-setup-ansible&theme=tokyonight&hide_border=true
-          path: dist/pin-server-setup-ansible.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=heyludy&repo=DrawMind&theme=tokyonight&hide_border=true
-          path: dist/pin-drawmind.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
       - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
